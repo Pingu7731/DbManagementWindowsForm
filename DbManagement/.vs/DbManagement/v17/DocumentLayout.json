@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\codes\\winform\\DbManagement\\",
+  "WorkspaceRootPath": "D:\\codes\\winform\\DbManagementWindowsForm\\DbManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D9EB7AD-773D-42DD-891B-250F9A8A04D0}|DbManagement\\DbManagement.csproj|d:\\codes\\winform\\dbmanagement\\dbmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D9EB7AD-773D-42DD-891B-250F9A8A04D0}|DbManagement\\DbManagement.csproj|solutionrelative:dbmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D9EB7AD-773D-42DD-891B-250F9A8A04D0}|DbManagement\\DbManagement.csproj|d:\\codes\\winform\\dbmanagementwindowsform\\dbmanagement\\dbmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9EB7AD-773D-42DD-891B-250F9A8A04D0}|DbManagement\\DbManagement.csproj|solutionrelative:dbmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D9EB7AD-773D-42DD-891B-250F9A8A04D0}|DbManagement\\DbManagement.csproj|d:\\codes\\winform\\dbmanagement\\dbmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D9EB7AD-773D-42DD-891B-250F9A8A04D0}|DbManagement\\DbManagement.csproj|solutionrelative:dbmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D9EB7AD-773D-42DD-891B-250F9A8A04D0}|DbManagement\\DbManagement.csproj|d:\\codes\\winform\\dbmanagementwindowsform\\dbmanagement\\dbmanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9EB7AD-773D-42DD-891B-250F9A8A04D0}|DbManagement\\DbManagement.csproj|solutionrelative:dbmanagement\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9EB7AD-773D-42DD-891B-250F9A8A04D0}|DbManagement\\DbManagement.csproj|d:\\codes\\winform\\dbmanagementwindowsform\\dbmanagement\\dbmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9EB7AD-773D-42DD-891B-250F9A8A04D0}|DbManagement\\DbManagement.csproj|solutionrelative:dbmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "login.cs",
+              "DocumentMoniker": "D:\\codes\\winform\\DbManagementWindowsForm\\DbManagement\\DbManagement\\login.cs",
+              "RelativeDocumentMoniker": "DbManagement\\login.cs",
+              "ToolTip": "D:\\codes\\winform\\DbManagementWindowsForm\\DbManagement\\DbManagement\\login.cs",
+              "RelativeToolTip": "DbManagement\\login.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAtwEQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T15:09:54.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\codes\\winform\\DbManagement\\DbManagement\\Program.cs",
+              "DocumentMoniker": "D:\\codes\\winform\\DbManagementWindowsForm\\DbManagement\\DbManagement\\Program.cs",
               "RelativeDocumentMoniker": "DbManagement\\Program.cs",
-              "ToolTip": "D:\\codes\\winform\\DbManagement\\DbManagement\\Program.cs",
+              "ToolTip": "D:\\codes\\winform\\DbManagementWindowsForm\\DbManagement\\DbManagement\\Program.cs",
               "RelativeToolTip": "DbManagement\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T06:38:56.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\codes\\winform\\DbManagement\\DbManagement\\Form1.cs",
+              "DocumentMoniker": "D:\\codes\\winform\\DbManagementWindowsForm\\DbManagement\\DbManagement\\Form1.cs",
               "RelativeDocumentMoniker": "DbManagement\\Form1.cs",
-              "ToolTip": "D:\\codes\\winform\\DbManagement\\DbManagement\\Form1.cs",
+              "ToolTip": "D:\\codes\\winform\\DbManagementWindowsForm\\DbManagement\\DbManagement\\Form1.cs",
               "RelativeToolTip": "DbManagement\\Form1.cs",
-              "ViewState": "AQIAAI4BAAAAAAAAAAAcwLABAAAAAAAA",
+              "ViewState": "AQIAAFYBAAAAAAAAAADwv9MBAACLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T03:18:50.854Z",
               "EditorCaption": ""

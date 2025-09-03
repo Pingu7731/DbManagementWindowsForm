@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codes\\winform\\DbManagement\\DbManagement\\DbManagement.csproj": {}
+    "D:\\codes\\winform\\DbManagementWindowsForm\\DbManagement\\DbManagement\\DbManagement.csproj": {}
   },
   "projects": {
-    "D:\\codes\\winform\\DbManagement\\DbManagement\\DbManagement.csproj": {
+    "D:\\codes\\winform\\DbManagementWindowsForm\\DbManagement\\DbManagement\\DbManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codes\\winform\\DbManagement\\DbManagement\\DbManagement.csproj",
+        "projectUniqueName": "D:\\codes\\winform\\DbManagementWindowsForm\\DbManagement\\DbManagement\\DbManagement.csproj",
         "projectName": "DbManagement",
-        "projectPath": "D:\\codes\\winform\\DbManagement\\DbManagement\\DbManagement.csproj",
+        "projectPath": "D:\\codes\\winform\\DbManagementWindowsForm\\DbManagement\\DbManagement\\DbManagement.csproj",
         "packagesPath": "C:\\Users\\ping7\\.nuget\\packages\\",
-        "outputPath": "D:\\codes\\winform\\DbManagement\\DbManagement\\obj\\",
+        "outputPath": "D:\\codes\\winform\\DbManagementWindowsForm\\DbManagement\\DbManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
